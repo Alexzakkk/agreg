@@ -1,2 +1,3 @@
 Approche macroscopique du ferromagnétisme \
-[CR_LP_S2_Approche_macroscopique_du_ferromagnétisme_MALIET.pdf](https://github.com/user-attachments/files/26059758/CR_LP_S2_Approche_macroscopique_du_ferromagnetisme_MALIET.pdf)
+[ferromagnetisme.pdf](https://github.com/user-attachments/files/28380642/ferromagnetisme.pdf)
+
